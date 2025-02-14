@@ -193,6 +193,18 @@ h3{
 .footermenu img{
     height:24px;
 }
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+}
+.pointer{
+    height: 4px;
+    width: 4px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
 .playingpl{
     position: relative;
   display: inline-block;  
