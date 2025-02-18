@@ -175,6 +175,11 @@ h3{
     gap:22px;
     
 }
+.scroll{
+    position: relative;
+    height:200px;
+    
+}
 .choice{
     display: flex;
     flex-direction: column;
